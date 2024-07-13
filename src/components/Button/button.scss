@@ -1,0 +1,21 @@
+button {
+  background-color: #d0ced1 !important;
+  border: none;
+  border-radius: 18px;
+  width: 210px;
+  margin: 0 auto;
+  margin-top: 3rem;
+  padding: 8px;
+  font-weight: 100;
+  transition: ease-out 0.3s;
+  font-size: 18px;
+  cursor: pointer;
+  -webkit-appearance: none !important;
+  color: black !important;
+}
+
+button:hover {
+  background-color: #d30200 !important;
+  -webkit-appearance: none !important;
+  color: white !important;
+}
